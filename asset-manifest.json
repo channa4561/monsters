@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//channa4561.github.io/myFirstReactApp/static/css/main.6124251a.chunk.css",
+    "main.js": "/https//channa4561.github.io/myFirstReactApp/static/js/main.d6a5b2e4.chunk.js",
+    "main.js.map": "/https//channa4561.github.io/myFirstReactApp/static/js/main.d6a5b2e4.chunk.js.map",
+    "runtime-main.js": "/https//channa4561.github.io/myFirstReactApp/static/js/runtime-main.1d5a15fd.js",
+    "runtime-main.js.map": "/https//channa4561.github.io/myFirstReactApp/static/js/runtime-main.1d5a15fd.js.map",
+    "static/js/2.3e63af55.chunk.js": "/https//channa4561.github.io/myFirstReactApp/static/js/2.3e63af55.chunk.js",
+    "static/js/2.3e63af55.chunk.js.map": "/https//channa4561.github.io/myFirstReactApp/static/js/2.3e63af55.chunk.js.map",
+    "static/js/3.7b4cbfcd.chunk.js": "/https//channa4561.github.io/myFirstReactApp/static/js/3.7b4cbfcd.chunk.js",
+    "static/js/3.7b4cbfcd.chunk.js.map": "/https//channa4561.github.io/myFirstReactApp/static/js/3.7b4cbfcd.chunk.js.map",
+    "index.html": "/https//channa4561.github.io/myFirstReactApp/index.html",
+    "static/css/main.6124251a.chunk.css.map": "/https//channa4561.github.io/myFirstReactApp/static/css/main.6124251a.chunk.css.map",
+    "static/js/2.3e63af55.chunk.js.LICENSE.txt": "/https//channa4561.github.io/myFirstReactApp/static/js/2.3e63af55.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//channa4561.github.io/myFirstReactApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d5a15fd.js",
+    "static/js/2.3e63af55.chunk.js",
+    "static/css/main.6124251a.chunk.css",
+    "static/js/main.d6a5b2e4.chunk.js"
+  ]
+}
